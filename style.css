@@ -1,0 +1,181 @@
+body{
+    background-color: rgb(0, 0, 0);
+    
+   
+}
+
+.title{
+    color:rgb(183,183,183);
+    
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 37px;
+    margin-bottom: 0px;
+    margin-right: 19px;
+    font-size: 44px;
+    font-weight: 400;
+    letter-spacing: 6.5px;
+    transition: 0.6s;
+    
+    
+    
+    
+}
+.header h1:hover{
+     cursor:pointer; 
+     color:rgb(219,79,61);
+     transition: 0.6s;
+    
+}
+.no1{
+    color: RGB(183,183,183);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 4px;
+    margin-bottom: 45px;
+
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 5px;
+    
+}
+hr{
+    width:1255px ;
+    font-size: 1px;
+    opacity: 0.2;
+    
+}
+.menu-bar {
+    display: flex;
+    padding-left: 300px;
+    
+    
+}
+.menu-bar li{
+    list-style: none;
+    padding-left: 30px;
+    letter-spacing: 0.29PX;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    transition: 0.6s;
+}
+.mid h1{
+    color: white;
+     /* text-align: center; */ 
+    font-family: 'Playfair Display', serif;
+    font-size: 42px;
+    font-weight:700;
+    margin-top: 110px;
+    margin-bottom: 80px;
+    padding-left: 589px;
+    
+}
+.images{
+    display: flex;
+    padding-left: 105px;
+    padding-right:95px;
+    justify-content: space-around;
+}
+.image2{
+    padding-left: 20px;
+}
+.mid h2{
+    font-size: 29px;
+    font-weight: 700;
+    color:white;
+    padding-left: 399px;
+    font-family: 'Playfair Display', serif;
+}
+.mid h3{
+    font-size: 18px;
+    font-weight: 400;
+    color:RGB(122, 122, 122);
+    padding-left: 115px;
+    padding-right: 88px;
+    font-family: Roboto, sans-serif;
+    
+}
+.mid h4{
+    font-size: 18px;
+    font-weight: 100;
+    color:RGB(122, 122, 122);
+    padding-left: 115px;
+    padding-right: 88px;
+    font-family: Roboto, sans-serif;
+}
+.menu-bar li:hover{
+    cursor:pointer; 
+    color:rgb(219,79,61);
+    transition: 0.9s;
+}
+a{
+    color: rgb(219,79,61);
+    transition: 0.5s;
+}
+a:hover{
+    color:RGB(122, 122, 122) ;
+    transition: 0.5s;
+}
+.slide1{
+    padding-left: 213px;
+}
+.slide2{
+    padding-left:0px;
+}
+
+.large h1{
+    padding-left: 116px;
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(122,122,122);
+}
+.large h2{
+    padding-left: 116px;
+    padding-right: 146px;
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(122,122,122);
+}
+.large h3{
+    padding-left: 116px;
+    padding-right: 146px;
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(122,122,122);
+    margin-bottom: 200px;
+    
+    
+
+}
+
+    
+    
+
+.footer h1{
+    color: rgb(122,122,122);
+    font-size: 13px;
+    text-align: center;
+}
+.kopi{
+    color: white;
+    transition: 1s;
+}
+.kopi:hover{
+    cursor: not-allowed;
+    padding: 14px;
+    background-color: rgb(81, 255, 0);
+    transition: 1s;
+}
+
+
+
+
+
